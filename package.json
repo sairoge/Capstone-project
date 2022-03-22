@@ -1,0 +1,25 @@
+{
+  "name": "workebench",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sairoge/Capstone-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sairoge/Capstone-project/issues"
+  },
+  "homepage": "https://github.com/sairoge/Capstone-project#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-fileupload": "^1.3.1",
+    "mysql": "^2.18.1"
+  }
+}
